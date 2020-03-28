@@ -1,0 +1,10 @@
+topnav:
+- title: Topnav
+  items:
+    - title: GitHub
+      external_url: https://github.com/jaredwinick/h3_sequence
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
