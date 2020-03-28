@@ -9,7 +9,8 @@ index = {"h3.libh3.experimentalH3ToLocalIj.restype": "00_core.ipynb",
          "coordinatesToH3IndexSequence": "00_core.ipynb",
          "window": "00_core.ipynb",
          "generate_sequences_with_next_hex_class": "00_core.ipynb",
-         "generate_sequences_with_next_hex_class_from_path": "00_core.ipynb"}
+         "generate_sequences_with_next_hex_class_from_path": "00_core.ipynb",
+         "parse_strava_gpx": "00_core.ipynb"}
 
 modules = ["core.py"]
 
